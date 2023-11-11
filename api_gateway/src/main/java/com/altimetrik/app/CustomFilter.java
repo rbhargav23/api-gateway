@@ -1,4 +1,4 @@
-package com.infybuzz.app;
+package com.altimetrik.app;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
